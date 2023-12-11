@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chayma007
-- 👀 I’m interested in full stack web developement 
+- 👀 I’m interested in front end web developement 
 - 🌱 I’m currently learning Express.js
 
 <!---
